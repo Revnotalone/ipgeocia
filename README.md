@@ -44,7 +44,7 @@ on this menu you can search for information from the target phone number
 
 Display on the menu ```Username Tracker```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
+<img src="https://github.com/Revnotalone/ipgeocia/blob/main/trackusername.jpg"/>
 on this menu you can search for information from the target username on social media
 
 <details>
