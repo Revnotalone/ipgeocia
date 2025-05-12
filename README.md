@@ -1,4 +1,4 @@
-# GhostTrack
+# IpGeoCia
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 <img src="https://github.com/Revnotalone/ipgeocia/blob/main/Cia.jpg"/>
@@ -20,10 +20,10 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
-cd GhostTrack
+git clone https://github.com/Revnotalone/ipgeocia.git
+cd ipgeocia
 pip3 install -r requirements.txt
-python3 GhostTR.py
+python3 Ghostcia.py
 ```
 
 Display on the menu ```IP Tracker```
@@ -49,5 +49,5 @@ on this menu you can search for information from the target username on social m
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/Revnotalone">Revnotalone</a></strong>
 </details>
